@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Mi primera nota",
+      "note": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab accusantium magnam iure officia vitae ad, distinctio rerum quas, fugiat doloremque a eaque rem veniam quos deleniti atque sequi molestiae! Ducimus?",
+      "author": "lrodriguez",
+      "date": "2024-04-03"
+    },
+    {
+      "id": 2,
+      "title": "Mi segunda nota",
+      "note": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab accusantium magnam iure officia vitae ad, distinctio rerum quas, fugiat doloremque a eaque rem veniam quos deleniti atque sequi molestiae! Ducimus?",
+      "author": "lrodriguez",
+      "date": "2024-04-03"
+    },
+    {
+      "id": 3,
+      "title": "Mi tercera nota",
+      "note": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab accusantium magnam iure officia vitae ad, distinctio rerum quas, fugiat doloremque a eaque rem veniam quos deleniti atque sequi molestiae! Ducimus?",
+      "author": "lrodriguez",
+      "date": "2024-04-03"
+    },
+    {
+      "id": 4,
+      "title": "Mi cuarta nota",
+      "note": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab accusantium magnam iure officia vitae ad, distinctio rerum quas, fugiat doloremque a eaque rem veniam quos deleniti atque sequi molestiae! Ducimus?",
+      "author": "lrodriguez",
+      "date": "2024-04-03"
+    },
+    {
+      "id": "de99",
+      "title": "Example Title",
+      "note": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab accusantium magnam iure officia vitae ad, distinctio rerum quas",
+      "author": "lrodriguez",
+      "date": "2024-04-01"
+    }
+  ]
+}
